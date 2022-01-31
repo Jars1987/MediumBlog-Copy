@@ -1,27 +1,19 @@
-# Next.js + Tailwind CSS Example
+# Medium Blog - NextJS Tailwind TypeScript Sanity Example
 
-This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](https://tailwindcss.com/blog/tailwindcss-v3) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
+I decide to code along Sonnys turtorial to practice Typescript and to learn about Sanity.
 
-## Preview
+### Here is the list of what I have gained with this project:
 
-Preview the example live on [StackBlitz](http://stackblitz.com/):
+I now understand how to implement Sanity and how usefull a CMS can be. Since the back end and the DB is setup you only need to worry with the fron end.
+With Sanity and Next it is quite quick to make a blog app or an ecommerce app.
+The brillian part is to have an admin page already setup and customizable that allows you to access your db directly.
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/with-tailwindcss)
+### This is what I have improved/changed in the project:
 
-## Deploy your own
+None so far.
+ls
 
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example):
+### This is the future features for this project:
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-tailwindcss&project-name=with-tailwindcss&repository-name=with-tailwindcss)
-
-## How to use
-
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init) or [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/) to bootstrap the example:
-
-```bash
-npx create-next-app --example with-tailwindcss with-tailwindcss-app
-# or
-yarn create next-app --example with-tailwindcss with-tailwindcss-app
-```
-
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+- Make the authentication feature.
+- Implement the Like feature
